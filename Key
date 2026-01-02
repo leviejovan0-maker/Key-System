@@ -15,8 +15,7 @@
   },
 {
     "id": "d727760206dcb6a5",
-    "username": "dpmods",
-    "password": "dpmods",
+    "license": "dpmods",
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
